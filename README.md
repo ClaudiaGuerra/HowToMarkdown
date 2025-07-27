@@ -1,0 +1,2 @@
+# Markdown: The ultimate guide
+This is a document to use as reference for my personal notes. For some time, I've been trying to find a simple way to keep my personal, learning and work notes. I've tried several tools (Notion, OneNote, Obsidian, Overleaf for LaTex, etc.) but they didn't seem to work for me. In consequence, I decided to use Markdown in the comfort of my offline VSCode. Most of this guide has been made using the [Markdown Guide](https://www.markdownguide.org/) using my own examples. Here, a guide for myself:
