@@ -13,8 +13,6 @@ To insert headings, you can use:
 | ##### Heading level 5  | <h5>Heading level 5</h5>     |
 | ###### Heading level 6 | <h6>Heading level 6</h6>     |
 
-æ
-
 ## Paragraphs
 If you want to create a paragraph, it is not necessary to insert a \<br> you can just press "Enter". Like this, simple as that. I am not planning to write a few paragraphs just to show this (it would be nice, tough, but I still have a few other things to do). Soooo, have a look at the usual Lorem Ipsum:
 
